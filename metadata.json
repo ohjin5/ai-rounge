@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Idea Bubble",
+  "description": "Google Forms로 제출된 AI Agent 아이디어를 비눗방울 형태로 보여주는 시각화 및 아이디어 상세 조회 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
